@@ -17,7 +17,7 @@ TouchDesignerでの動画同時再生プログラム
 IPアドレスは右の三角マークを押すと候補から選択可能  
 その後、ZigSimのSettings画面に同じIPアドレスとPORT番号(オレンジ)を入力  
 
-<img src="./images/image1.jpeg" width="300"/> <img src="./images/image3.png" width="550"/>
+<img src="./images/image1.jpeg" width="250"/> <img src="./images/image3.png" width="450"/>
 
 6. computer2のOSC In nodeを開き、IPアドレスとPORT番号(緑)を指定  
 その後、computer1のOSC Out nodeを開き、同じIPアドレスとPORT番号(緑)を入力  
